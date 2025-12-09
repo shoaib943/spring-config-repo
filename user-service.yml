@@ -1,5 +1,1 @@
-message: "Hello from GitHub for USER-SERVICE!"
-db:
-  url: jdbc:mysql://localhost:3306/usersdb
-  username: root
-  password: #Ss8010S
+
