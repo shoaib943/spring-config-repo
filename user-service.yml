@@ -1,11 +1,5 @@
 message: "Hello from GitHub for USER-SERVICE!"
 
-spring:
-  datasource:
-    url: jdbc:mysql://localhost:3306/usersdb
-    username: root
-    password: #Ss8010S
-  jpa:
-    hibernate:
-      ddl-auto: update
-    show-sql: true
+db.url: jdbc:mysql://localhost:3306/usersdb
+db.username: root
+db.password: "#Ss8010S"
