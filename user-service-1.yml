@@ -2,7 +2,7 @@ spring:
   datasource:
     url: jdbc:mysql://localhost:3306/usersdb
     username: root
-    password: yourPasswordHere
+    password: #Ss8010S
   jpa:
     hibernate:
       ddl-auto: update
